@@ -149,13 +149,3 @@ The application is fully responsive and works seamlessly across:
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
-For support, please contact:
-- Email: codewavewithasante@gmail.com
-- Telegram: [Codewave_with_asante](https://t.me/Codewave_with_asante)
-
-## 📄 License
-This project is licensed under the ISC License.
-
----
-Made with ❤️ by CodeWave
